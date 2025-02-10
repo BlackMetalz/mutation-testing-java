@@ -60,8 +60,6 @@ Enhanced functionality available at https://www.arcmutate.com/
 - Updated code in `Calculator.java`
 - Output example:
 ```
-
-```
 - Statistics
 ================================================================================
 >> Line Coverage (for mutated classes only): 9/11 (82%)
